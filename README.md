@@ -14,3 +14,8 @@ git branch -d feature-readme-instructions
 
 PUSH DELETE GIT FROM LOCAL
 git push origin --delete feature-readme-instructions
+
+BACK 2 STEP
+git reset HEAD~1
+
+MISTAKE1
