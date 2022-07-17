@@ -8,3 +8,9 @@ git push --set-upstream origin feature-readme-instructions
 
 RETRIEVE CHANGE FORM GITHUB
 git pull origin master
+
+DELETE BRANCH
+git branch -d feature-readme-instructions
+
+PUSH DELETE GIT FROM LOCAL
+git push origin --delete feature-readme-instructions
